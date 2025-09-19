@@ -234,7 +234,7 @@ export default function Header() {
 
         <Social className="desktop-social">
           <a
-            href="https://github.com/seu-usuario"
+            href="https://github.com/Rafael-Rosa-Corp"
             target="_blank"
             rel="noopener noreferrer"
             title="GitHub"
@@ -242,7 +242,7 @@ export default function Header() {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/seu-usuario"
+            href="https://www.linkedin.com/in/rafael-rosa-corp-pixel/"
             target="_blank"
             rel="noopener noreferrer"
             title="LinkedIn"
